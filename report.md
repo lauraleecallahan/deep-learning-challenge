@@ -13,7 +13,7 @@ What variable(s) are the target(s) for your model?
 - The target for this model is X, or all of the columns in the new_application_df, excluding the "IS_SUCCESSFUL" column.
   
 What variable(s) are the features for your model?
-- The feature for this model is the y, or the "IS_SUCCESSFUL" column in the new_application_df.
+- The feature for this model is the y, or the "IS_SUCCESSFUL" column in the num_application_df.
   
 <img width="714" alt="image" src="https://github.com/user-attachments/assets/f3e23224-43d3-4440-9f14-2a4ed085446d" />
 
