@@ -33,7 +33,8 @@ What variable(s) should be removed from the input data because they are neither 
 - What steps did you take in your attempts to increase model performance?
   - With my 3 attempts, I tried removing/adding columns, changing the number of units and activation type, increasing/decreasing the number of epochs, creating different bins, and choosing different cutoff values.
   
-###Summary: 
+### Summary: 
+
 Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and then explain your recommendation.
 
 - Overall, this deep learning model displays accuracy between ~ 47% to ~ 53%. Because this a large dataset with multiple varying factors, perhaps a modular neural network model would have been best to compress the data and help select applicants for funding.
