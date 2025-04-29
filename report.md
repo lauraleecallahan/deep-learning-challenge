@@ -39,4 +39,4 @@ What variable(s) should be removed from the input data because they are neither 
 
 Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and then explain your recommendation.
 
-- Overall, this deep learning model displays accuracy between ~ 47% to ~ 53%. Because this a large dataset with multiple varying factors, perhaps a modular neural network model would have been best to compress the data and help select applicants for funding.
+- Overall, this deep learning model displays accuracy between ~ 65% to ~ 67%. Because this a large dataset with multiple varying factors, perhaps a modular neural network model would have been best to compress the data and help select applicants for funding.
