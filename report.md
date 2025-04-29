@@ -26,7 +26,8 @@ What variable(s) should be removed from the input data because they are neither 
 - How many neurons, layers, and activation functions did you select for your neural network model, and why?
     - A sequential model with 3 layers (First Hidden, Second Hidden, and Output layer), 'relu' actvation functions for each, and 80, 30, and 1 units, respectively- for the Funding notebook.
 
-<img width="1050" alt="Screenshot 2023-06-30 at 10 35 50 PM" src="https://github.com/margaretkhendre/Nonprofit-Funding-vs-Deep-Learning-Challenge-/assets/121995835/7e0fd653-9d2a-446a-8e3c-7b24db01805e">
+<img width="1024" alt="image" src="https://github.com/user-attachments/assets/e301d054-493c-4a5f-9ded-72d7d80a11ef" />
+
 
 - Were you able to achieve the target model performance?
     - I was unable to achieve the target model performance.
