@@ -15,7 +15,8 @@ What variable(s) are the target(s) for your model?
 What variable(s) are the features for your model?
 - The feature for this model is the y, or the "IS_SUCCESSFUL" column in the new_application_df.
   
-<img width="1675" alt="Screenshot 2023-06-30 at 9 46 13 PM" src="https://github.com/margaretkhendre/Nonprofit-Funding-vs-Deep-Learning-Challenge-/assets/121995835/23d633de-b256-43cd-8870-50b888274b3a">
+<img width="714" alt="image" src="https://github.com/user-attachments/assets/f3e23224-43d3-4440-9f14-2a4ed085446d" />
+
 
 What variable(s) should be removed from the input data because they are neither targets nor features?
 - The ID columns should be removed.
