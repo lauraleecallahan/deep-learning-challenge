@@ -10,7 +10,7 @@ Using bulleted lists and images to support your answers, address the following q
 **Data Preprocessing**
 
 What variable(s) are the target(s) for your model?
-- The target for this model is X, or all of the columns in the new_application_df, excluding the "IS_SUCCESSFUL" column.
+- The target for this model is X, or all of the columns in the num_application_df, excluding the "IS_SUCCESSFUL" column.
   
 What variable(s) are the features for your model?
 - The feature for this model is the y, or the "IS_SUCCESSFUL" column in the num_application_df.
